@@ -1,7 +1,7 @@
 # DMDFuse: A dynamic Mamba decoupling network for infrared and visible image fusion
-Cheng Fei, Zhisheng Chen∗, Jun Zhang, Haorui Peng, Huan Zhang
+### Cheng Fei, Zhisheng Chen∗, Jun Zhang, Haorui Peng, Huan Zhang
 
-Published in: Infrared Physics & Technology
+### Published in: Infrared Physics & Technology
 
 - [paper](https://doi.org/10.1016/j.infrared.2026.106941)
 
@@ -10,7 +10,7 @@ Benefiting from long-range modeling capabilities comparable to Transformers and 
 
 ## Framework
 <img width="3243" height="1947" alt="2" src="https://github.com/user-attachments/assets/b167ec2e-3b31-4dad-baef-9cee57032331" />
-<img width="2623" height="2183" alt="3" src="https://github.com/user-attachments/assets/05787db0-1889-4178-a7f1-635d62bb5c99" />
+
 <img width="2237" height="943" alt="5" src="https://github.com/user-attachments/assets/d728a0c7-11a2-4635-aef6-0546242a19bb" />
 
 
