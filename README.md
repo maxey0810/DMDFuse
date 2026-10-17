@@ -9,9 +9,9 @@ Published in: Infrared Physics & Technology
 Benefiting from long-range modeling capabilities comparable to Transformers and linear computational complexity, Mamba is emerging as a core foundational architecture in computer vision. However, in the infrared and visible image fusion tasks, the tremendous potential of Mamba for frequency-domain perception and explicit structural modeling remains underexplored. This paper introduces DMDFuse, a novel spatial-frequency dynamic decoupling fusion network. Specifically, we first propose the Spectral Contextual Mamba Block (SCMB) to purify the high-frequency fine-grained structures of the source image, providing directionally decoupled, high-fidelity inputs for the fusion network. Secondly, to strengthen the fusion backbone, we design the Dynamic Routing Mamba Block (DRMB) featuring a structure-aware local dynamic scanning strategy. This mechanism enables data-driven token sequence reorganization and effectively enhances the network's causal modeling capacity for long-range semantics. Finally, the Discrepancy-Guided Attention Fusion (DGAF) module leverages cross-modal feature residuals as spatial priors to precisely compensate for information gaps between modalities. Coupled with a custom-designed correlation discrepancy loss, it establishes an enhanced theoretical constraint for cross-modal feature interaction. Extensive experiments on multiple benchmark datasets and downstream detection tasks demonstrate that DMDFuse achieves advanced performance in both subjective visual quality and objective quantitative evaluations.
 
 ## Framework
-<img width="2434" height="1459" alt="2" src="https://github.com/user-attachments/assets/f599fb98-f8e5-40df-a8aa-bd53a95faa91" />
-<img width="2623" height="2183" alt="3" src="https://github.com/user-attachments/assets/80d04a52-7c9a-40fc-a974-655e27d4623f" />
-<img width="2237" height="953" alt="5" src="https://github.com/user-attachments/assets/6e3bc59c-1326-45bd-8a1e-7f86896b7ebe" />
+<img width="3243" height="1947" alt="2" src="https://github.com/user-attachments/assets/b167ec2e-3b31-4dad-baef-9cee57032331" />
+<img width="2623" height="2183" alt="3" src="https://github.com/user-attachments/assets/05787db0-1889-4178-a7f1-635d62bb5c99" />
+<img width="2237" height="943" alt="5" src="https://github.com/user-attachments/assets/d728a0c7-11a2-4635-aef6-0546242a19bb" />
 
 
 
