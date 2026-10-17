@@ -10,6 +10,9 @@ Benefiting from long-range modeling capabilities comparable to Transformers and 
 
 ## Framework
 <img width="2434" height="1459" alt="2" src="https://github.com/user-attachments/assets/f599fb98-f8e5-40df-a8aa-bd53a95faa91" />
+<img width="2623" height="2183" alt="3" src="https://github.com/user-attachments/assets/80d04a52-7c9a-40fc-a974-655e27d4623f" />
+<img width="2237" height="953" alt="5" src="https://github.com/user-attachments/assets/6e3bc59c-1326-45bd-8a1e-7f86896b7ebe" />
+
 
 
 ## Recommended Environment
@@ -30,7 +33,7 @@ Place the pre-trained model weights (`epoch_39.pth`) in the root directory, and 
     python test.py --root_path ./datasets/MSRS
 
 ## Citation
-
+```
 @article{FEI2027106941,
 title = {DMDFuse: A dynamic Mamba decoupling network for infrared and visible image fusion},
 journal = {Infrared Physics & Technology},
@@ -41,3 +44,4 @@ issn = {1350-4495},
 doi = {https://doi.org/10.1016/j.infrared.2026.106941},
 author = {Cheng Fei and Zhisheng Chen and Jun Zhang and Haorui Peng and Huan Zhang}
 }
+```
